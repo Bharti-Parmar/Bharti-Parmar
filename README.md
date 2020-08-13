@@ -6,7 +6,9 @@
 
 * Daily active on stackoverflow to help by giving solutions in bootstrap 4 framework, HTML, CSS and SQL.🤝
 
-*  I have got gold badge in SQL, bronze and silver badge in other languages on hackerrank platform. ✌️🥇
+* I have got gold badge in SQL, bronze badge in Algorithms, DBMS, Python and silver badge in C, Javascript on hackerrank platform. ✌️🥇
+
+* I was contributing as a Technical Content Writer on Includehelp. More than 40+ articles are published on Bootstrap 3/4, MySQL/SQL, MongoDB, ML, DBMS. you can see my articles on my Includehelp profile (Profile link is attached below).
 
 Apart from this, you can see my Experience's, Honors and Awards in my LinkedIn profile. 
 
@@ -54,5 +56,4 @@ Apart from this, you can see my Experience's, Honors and Awards in my LinkedIn p
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></img>
 
 
-#### Thank You,
-#### Bharti Parmar 
+#### Thank You, <br /> Bharti Parmar 
