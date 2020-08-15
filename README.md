@@ -10,7 +10,7 @@
 
 * I was contributing as a Technical Content Writer on Includehelp. More than 40+ articles are published on Bootstrap 3/4, MySQL/SQL, MongoDB, ML, DBMS. you can see my articles on my Includehelp profile (Profile link is attached below).
 
-Apart from this, you can see my Experience's, Honors and Awards in my LinkedIn profile. 
+Apart from this, you can see my Experience's, Honors and Awards on my LinkedIn profile. 
 
 
 <a href="https://www.includehelp.com/Members/bharti-parmar.aspx" style="text-decoration:none; color:black; size:22px;" >
@@ -37,9 +37,8 @@ Apart from this, you can see my Experience's, Honors and Awards in my LinkedIn p
 ### About Me
 
 - 🔭 I’m currently working on Software Engineering, ReactJS, Product Engineering, Javascript.
-- 🌱 I’m currently learning Javascript, ReactJS, API, JQuery, Stored Procedure at advance level.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with Social Media, You can connect with me anywhere. 
+- 🌱 I’m currently learning Javascript, ReactJS, API, JQuery, Stored Procedure at advance level, bootstrap 5.
+- 🤔 I’m looking for help with Social Media, You can connect with me anywhere on social media, just click on the above links. 
 - 💬 Ask me about related to the Front End, Back End, DBMS, MySQL Stored Procedures, Software Engineering, Product Engineering.
 - 📫 How to reach me: just go on the above links, you can easily reach me.
 
