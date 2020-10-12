@@ -2,7 +2,7 @@
 #### Software Engineer - Research and Development
 
 ##### Intro:
-* I am dedicated and passionate about my work 😊 and well focused toward my goals / future.✌️
+* I am dedicated and passionate about my work 😊 and well focused toward my goals.✌️
 
 * Daily active on stackoverflow to help by giving solutions in bootstrap 4 framework, JS, HTML, CSS, SQL and MySQL stored Procedure.🤝
 
@@ -37,10 +37,10 @@ Apart from this, you can see my Experience's, Honors and Awards on my LinkedIn p
 ### About Me
 
 - 🔭 I’m currently working on Software Engineering, ReactJS, Redux, Redux-Saga, Product Engineering, Javascript.
-- 🌱 I’m currently learning Javascript, ReactJS, Redux, Redux-Saga, API, JQuery, Stored Procedure at advance level, bootstrap 5.
-- 🤔 I’m looking for help with Social Media, You can connect with me anywhere on social media, just click on the above links. 
+- 🌱 I’m currently learning Javascript, ReactJS, Redux, Redux-Saga, API, Stored Procedure at advance level, bootstrap 5.
+- 🤔 I’m looking for help in Front End, Bootstrap, React, SQL.
 - 💬 Ask me about related to the Front End, Back End, DBMS, MySQL Stored Procedures, Software Engineering, Product Engineering.
-- 📫 How to reach me: just go on the above links, you can easily reach me.
+- 📫 How to reach me: Just go on the above links, you can easily reach me.
 
 
 ### 👨🏻‍💻 Language and tools: 
