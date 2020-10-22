@@ -12,7 +12,9 @@
 
 Apart from this, you can see my Experience's, Honors and Awards on my LinkedIn profile. 
 
-
+<a href="https://www.includehelp.com/Members/bharti-parmar.aspx">
+  Includehelp
+</a>
 <a href="https://www.linkedin.com/in/ser-bharti-p-827279135/">
   <img align="left" alt="Bharti LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -29,10 +31,10 @@ Apart from this, you can see my Experience's, Honors and Awards on my LinkedIn p
   <img align="left" alt="Bharti medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <a href="https://www.hackerrank.com/parmarbharti25?hr_r=1">
-  <img align="left" alt="Bharti Hackerrank" width="100px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+  <img align="left" alt="Bharti Hackerrank" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 <a href="https://github.com/Bharti-Parmar">
-  <img alt="Bharti Github" align="left" width="100px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="25px" />
+  <img alt="Bharti Github" align="left" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="25px" />
 </a>
 <a href="mailto://parmarbharti25@gmail.com">
   <img align="left" alt="Bharti Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
