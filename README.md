@@ -4,7 +4,7 @@
 ##### Bio:
 * I am dedicated and passionate about my work 😊 and well focused toward my goals.✌️
 
-* Daily active on stackoverflow to help by giving solutions in bootstrap 4 framework, JS, HTML, CSS, SQL and MySQL stored Procedure.🤝
+* Daily active on stackoverflow to help by giving solutions in bootstrap 4 framework, JS, ReactJS, HTML, CSS, SQL and MySQL stored Procedure.🤝
 
 * I have got gold badge in SQL, bronze badge in Algorithms, DBMS, Python and silver badge in C, Javascript on hackerrank platform. ✌️🥇
 
@@ -45,8 +45,8 @@ Apart from this, you can see my Experience's, Honors and Awards on my LinkedIn p
 ### About Me
 
 - 🔭 I’m currently working on Software Engineering, ReactJS, Redux, Redux-Saga, Product Engineering, Javascript.
-- 🌱 I’m currently learning Javascript, ReactJS, Redux, Redux-Saga, API, Stored Procedure at advance level, bootstrap 5.
-- 🤔 I’m looking for help in Front End, Bootstrap, React, SQL.
+- 🌱 I’m currently learning Javascript, ReactJS, Redux, Redux-Saga, Angular, TypeScript, API, Stored Procedure at advance level, bootstrap 5.
+- 🤔 I’m looking for help in ReactJS, AngularJS, Redux, Redux-Saga, TypeScript.
 - 💬 Ask me about related to the Front End, Back End, DBMS, MySQL Stored Procedures, Software Engineering, Product Engineering.
 - 📫 How to reach me: Just go on the above links, you can easily reach me.
 
@@ -74,4 +74,4 @@ Apart from this, you can see my Experience's, Honors and Awards on my LinkedIn p
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></img>
 
 
-#### Thank You, <br /> Bharti Parmar 
+#### Thank You, <br /> Bharti Parmar! :-)
