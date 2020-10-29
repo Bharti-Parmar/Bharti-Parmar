@@ -15,7 +15,7 @@ Apart from this, you can see my Experience's, Honors and Awards on my LinkedIn p
 <a href="https://www.includehelp.com/Members/bharti-parmar.aspx">
   Includehelp
 </a>
-<a href="https://www.linkedin.com/in/ser-bharti-p-827279135/">
+<a href="https://in.linkedin.com/in/bharti-parmar-827279135">
   <img align="left" alt="Bharti LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://stackoverflow.com/users/13074821/bharti-parmar">
