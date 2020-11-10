@@ -24,21 +24,25 @@ Apart from this, you can see my Experience's, Honors and Awards on my LinkedIn p
 <a href="https://www.quora.com/profile/Ibharti-Parmar">
   <img align="left" alt="Bharti quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />
 </a>
+<!--
 <a href="https://auth.geeksforgeeks.org/user/parmarbharti25">
   <img align="left" alt="Bharti geeks" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />
 </a>
 <a href="https://medium.com/@parmarbharti25">
   <img align="left" alt="Bharti medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
+-->
 <a href="https://www.hackerrank.com/parmarbharti25?hr_r=1">
   <img align="left" alt="Bharti Hackerrank" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 <a href="https://github.com/Bharti-Parmar">
   <img alt="Bharti Github" align="left" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="25px" />
 </a>
+<!--
 <a href="mailto://parmarbharti25@gmail.com">
   <img align="left" alt="Bharti Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+-->
 <br />
 <br />
 
