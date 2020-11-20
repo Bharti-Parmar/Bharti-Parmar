@@ -55,7 +55,7 @@ Apart from this, you can see my Experience's, Honors and Awards on my LinkedIn p
 - 📫 How to reach me: Just go on the above links, you can easily reach me.
 
 
-### 👨🏻‍💻 Language and tools: 
+### 👨🏻‍💻 Languages and Tools: 
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></img>
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></img>
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></img>
@@ -76,6 +76,8 @@ Apart from this, you can see my Experience's, Honors and Awards on my LinkedIn p
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></img>
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></img>
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></img>
+<img height="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swagger.svg"></img>
+<img height="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg"></img>
 
 
 #### Thank You, <br /> Bharti Parmar!
