@@ -48,9 +48,9 @@ Apart from this, you can see my Experience's, Honors and Awards on my LinkedIn p
 
 ### About Me
 
-- 🔭 I’m currently working on Software Engineering, ReactJS, Redux, Redux-Saga, Product Engineering, Javascript.
-- 🌱 I’m currently learning Javascript, ReactJS, Redux, Redux-Saga, Angular, TypeScript, API, Stored Procedure at advance level, bootstrap 5.
-- 🤔 I’m looking for help in ReactJS, AngularJS, Redux, Redux-Saga, TypeScript.
+- 🔭 I’m currently working on Software Engineering, ReactJS, Redux, Redux-Saga, Product Engineering, Javascript, RestAPI.
+- 🌱 I’m currently learning Javascript, ReactJS, Redux, Redux-Saga, Angular, TypeScript, RestAPI, Stored Procedure at advance level, bootstrap 5.
+- 🤔 I’m looking for help in ReactJS, Redux, Redux-Saga, DBMS.
 - 💬 Ask me about related to the Front End, Back End, DBMS, MySQL Stored Procedures, Software Engineering, Product Engineering.
 - 📫 How to reach me: Just go on the above links, you can easily reach me.
 
