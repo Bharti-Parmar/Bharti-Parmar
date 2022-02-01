@@ -1,7 +1,6 @@
 ## Hello, 👋 I am Bharti Parmar
 #### Software Engineer - Research and Development
 
-##### Bio:
 * I am dedicated and passionate about my work 😊 and well focused toward my goals.✌️
 
 * Daily active on stackoverflow to help by giving solutions in bootstrap 4 framework, JS, ReactJS, HTML, CSS, SQL and MySQL stored Procedure.🤝
@@ -48,8 +47,8 @@ Apart from this, you can see my Experience's, Honors and Awards on my LinkedIn p
 
 ### About Me
 
-- 🔭 I’m currently working on Software Engineering, ReactJS, Redux, Redux-Saga, Product Engineering, Javascript, RestAPI.
-- 🌱 I’m currently learning Javascript, ReactJS, Redux, Redux-Saga, Angular, TypeScript, RestAPI, Stored Procedure at advance level, bootstrap 5.
+- 🔭 I’m currently working on Software Engineering, ReactJS, Product Engineering, Javascript, RestAPI, Automation Testing.
+- 🌱 I’m currently learning Javascript, ReactJS, Redux, Redux-Saga, Angular, TypeScript, RestAPI, Automation by JMeter, Stored Procedure at advance level, bootstrap 5.
 - 🤔 I’m looking for help in ReactJS, Redux, Redux-Saga, DBMS.
 - 💬 Ask me about related to the Front End, Back End, DBMS, MySQL Stored Procedures, Software Engineering, Product Engineering.
 - 📫 How to reach me: Just go on the above links, you can easily reach me.
@@ -78,6 +77,7 @@ Apart from this, you can see my Experience's, Honors and Awards on my LinkedIn p
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></img>
 <img height="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swagger.svg"></img>
 <img height="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg"></img>
+<img height="35" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Apache_JMeter.png"></img>
 
 
-#### Thank You, <br /> Bharti Parmar!
+#### Thank You, <br /> Bharti Parmar :-)
