@@ -47,10 +47,10 @@ Apart from this, you can see my Experience's, Honors and Awards on my LinkedIn p
 
 ### About Me
 
-- 🔭 I’m currently working on Software Engineering, ReactJS, Product Engineering, Javascript, RestAPI, Automation Testing.
-- 🌱 I’m currently learning Javascript, ReactJS, Redux, Redux-Saga, Angular, TypeScript, RestAPI, Automation by JMeter, Stored Procedure at advance level, bootstrap 5.
+- 🔭 I’m currently working on Software Engineering, ReactJS, Product Engineering, Javascript, RestAPI, Automation Testing by Apache JMeter.
+- 🌱 I’m currently learning Javascript, ReactJS, RestAPI, Data Structures and Algorithms.
 - 🤔 I’m looking for help in ReactJS, Redux, Redux-Saga, DBMS.
-- 💬 Ask me about related to the Front End, Back End, DBMS, MySQL Stored Procedures, Software Engineering, Product Engineering.
+- 💬 Ask me about related to the Front End, DBMS, MySQL Stored Procedures, Software Engineering, Product Engineering, Automation.
 - 📫 How to reach me: Just go on the above links, you can easily reach me.
 
 
