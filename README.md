@@ -48,7 +48,7 @@ Apart from this, you can see my Experience's, Honors and Awards on my LinkedIn p
 ### About Me
 
 - 🔭 I’m currently working on Software Engineering, ReactJS, Product Engineering, Javascript, RestAPI, Automation Testing by Apache JMeter.
-- 🌱 I’m currently learning Javascript, ReactJS, RestAPI, Data Structures and Algorithms.
+- 🌱 I’m currently learning Javascript, ReactJS, TypeScript, RestAPI, Data Structures and Algorithms.
 - 🤔 I’m looking for help in ReactJS, Redux, Redux-Saga, DBMS.
 - 💬 Ask me about related to the Front End, DBMS, MySQL Stored Procedures, Software Engineering, Product Engineering, Automation.
 - 📫 How to reach me: Just go on the above links, you can easily reach me.
@@ -56,6 +56,7 @@ Apart from this, you can see my Experience's, Honors and Awards on my LinkedIn p
 
 ### 👨🏻‍💻 Languages and Tools: 
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></img>
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></img>
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></img>
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></img>
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/es6/es6.png"></img>
