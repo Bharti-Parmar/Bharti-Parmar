@@ -35,6 +35,9 @@ Apart from this, you can see my Experience's, Honors and Awards on my LinkedIn p
 <a href="https://www.hackerrank.com/parmarbharti25?hr_r=1">
   <img align="left" alt="Bharti Hackerrank" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
+<a href="https://www.codechef.com/users/parmarbharti25">
+  <img align="left" alt="Bharti Hackerrank" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+</a>
 <a href="https://github.com/Bharti-Parmar">
   <img alt="Bharti Github" align="left" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="25px" />
 </a>
