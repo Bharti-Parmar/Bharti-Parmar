@@ -1,9 +1,11 @@
 ## Hello, 👋 I am Bharti Parmar
-#### Software Engineer - Research and Development
+#### React JS Developer
 
 * I am dedicated and passionate about my work 😊 and well focused toward my goals.✌️
 
-* Daily active on stackoverflow to help by giving solutions in bootstrap 4 framework, JS, ReactJS, HTML, CSS, SQL and MySQL stored Procedure.🤝
+* Always looking for a good opportunity to upgrade myself.🤝
+* 
+* I have worked on bootstrap, Tailwind CSS, JS, ReactJS, TypeScript, HTML, CSS, SQL, Redux, Micro-frontend, figma, scratch to code UI, functional testing, Azure, JIRA, Swagger, POSTMAN and GraphQL.
 
 * I have got gold badge in SQL, bronze badge in Algorithms, DBMS, Python and silver badge in C, Javascript on hackerrank platform. ✌️🥇
 
@@ -41,6 +43,9 @@ Apart from this, you can see my Experience's, Honors and Awards on my LinkedIn p
 <a href="https://github.com/Bharti-Parmar">
   <img alt="Bharti Github" align="left" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="25px" />
 </a>
+<a href="[https://github.com/Bharti-Parmar](https://leetcode.com/u/BhartiParmar/)">
+  <img alt="Bharti Leetcode" align="left" width="22px" height="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg)" width="25px" />
+</a>
 <!--
 <a href="mailto://parmarbharti25@gmail.com">
   <img align="left" alt="Bharti Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
@@ -51,11 +56,11 @@ Apart from this, you can see my Experience's, Honors and Awards on my LinkedIn p
 
 ### About Me
 
-- 🔭 I’m currently working on Software Engineering, ReactJS, Product Engineering, Javascript, RestAPI, Automation Testing by Apache JMeter.
-- 🌱 I’m currently learning Javascript, ReactJS, TypeScript, RestAPI, Data Structures and Algorithms.
-- 🤔 I’m looking for help in ReactJS, Redux, Redux-Saga, DBMS.
-- 💬 Ask me about related to the Front End, DBMS, MySQL Stored Procedures, Software Engineering, Product Engineering, Automation.
-- 📫 How to reach me: Just go on the above links, you can easily reach me.
+- 🔭 I’m currently working on ReactJS, Redux, Typescript, JavaScript, API Integration.
+- 🌱 I’m currently learning Azure, Java, Data Structures and Algorithms.
+- 🤔 I’m looking for help in Azure, AWS, Java.
+- 💬 Ask me about related to the Front End Technologies, DBMS.
+- 📫 How to reach me: Just go on the above links, you can easily reach me. I will be happy to help you. :-D
 
 
 ### 👨🏻‍💻 Languages and Tools: 
@@ -78,4 +83,4 @@ Apart from this, you can see my Experience's, Honors and Awards on my LinkedIn p
 <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Apache_JMeter.png"></img>
 
 
-#### Thank You, <br /> Bharti Parmar :-)
+#### Thank You, <br /> Happy Learning <br /> Bharti Parmar :-)
