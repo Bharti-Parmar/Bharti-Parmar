@@ -43,8 +43,8 @@ Apart from this, you can see my Experience's, Honors and Awards on my LinkedIn p
 <a href="https://github.com/Bharti-Parmar">
   <img alt="Bharti Github" align="left" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="25px" />
 </a>
-<a href="[https://github.com/Bharti-Parmar](https://leetcode.com/u/BhartiParmar/)">
-  <img alt="Bharti Leetcode" align="left" width="22px" height="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg)" width="25px" />
+<a href="https://leetcode.com/u/BhartiParmar/">
+  <img alt="Bharti Leetcode" align="left" width="22px" height="22px" src="[(https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" width="25px" />
 </a>
 <!--
 <a href="mailto://parmarbharti25@gmail.com">
