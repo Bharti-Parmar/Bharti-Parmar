@@ -5,7 +5,7 @@
 
 * Always looking for a good opportunity to upgrade myself.🤝
   
-* I have worked on bootstrap, Tailwind CSS, JS, ReactJS, TypeScript, HTML, CSS, SQL, Redux, Micro-frontend, figma, scratch to code UI, functional testing, Azure, JIRA, Swagger, POSTMAN and GraphQL.
+* I have worked on bootstrap, Tailwind CSS, JS, ReactJS, TypeScript, HTML, CSS, CSS Modules, SASS, Material-UI, SQL, Redux, Micro-frontend, figma, scratch to UI code, functional testing, Azure, JIRA, Swagger, POSTMAN and GraphQL.
 
 * I have got gold badge in SQL, bronze badge in Algorithms, DBMS, Python and silver badge in C, Javascript on hackerrank platform. ✌️🥇
 
@@ -56,7 +56,7 @@ Apart from this, you can see my Experience's, Honors and Awards on my LinkedIn p
 
 ### About Me
 
-- 🔭 I’m currently working on ReactJS, Redux, Typescript, JavaScript, API Integration.
+- 🔭 I’m currently working on HTML/CSS, JS, Bootstrap, Tailwind CSS, CSS Module, Material-UI, SASS, ReactJS, Redux, Typescript, JavaScript, API Integration.
 - 🌱 I’m currently learning Azure, Java, Data Structures and Algorithms.
 - 🤔 I’m looking for help in Azure, AWS, Java.
 - 💬 Ask me about related to the Front End Technologies, DBMS.
