@@ -4,7 +4,7 @@
 * I am dedicated and passionate about my work 😊 and well focused toward my goals.✌️
 
 * Always looking for a good opportunity to upgrade myself.🤝
-* 
+  
 * I have worked on bootstrap, Tailwind CSS, JS, ReactJS, TypeScript, HTML, CSS, SQL, Redux, Micro-frontend, figma, scratch to code UI, functional testing, Azure, JIRA, Swagger, POSTMAN and GraphQL.
 
 * I have got gold badge in SQL, bronze badge in Algorithms, DBMS, Python and silver badge in C, Javascript on hackerrank platform. ✌️🥇
